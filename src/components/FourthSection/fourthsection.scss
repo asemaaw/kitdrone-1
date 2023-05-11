@@ -1,0 +1,54 @@
+.fourth{
+    display: flex;
+    height: 90vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    div{
+        width: 40%;
+    }
+    .phone{
+        background: url(../../../public/images/phone.webp) center;
+    }
+    .device{
+        background: url(../../../public/images/services.webp) center;
+    }
+    .build{
+        background: url(../../../public/images/news.webp) center;
+    }
+    .pluses, .garantee, .news{
+        background-color:   rgba(14, 14, 14, 0.368);
+        color: white;
+        align-items: center;
+        padding: 10px;
+        margin: auto;
+        width: 270px;
+        height: 400px;
+        margin-top: 30px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+       
+        
+    p{
+        margin-top: 40px;
+        margin-bottom: 100px;
+        width: 200px;
+    }
+    button{
+        background: none;
+        border: none;
+        color: white;
+        font-size: 20px;
+    }
+h2{
+    font-size: 28px;
+}
+button:hover{
+    background-color: rgb(48, 48, 131);
+    padding: 10px;
+
+}
+
+    }
+
+}

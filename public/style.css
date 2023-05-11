@@ -1,0 +1,12 @@
+.ytp-chrome-top,
+.ytp-chrome-bottom {
+  opacity: 0;
+  background-color: #30303080;
+  position: absolute;
+  width: 100% !important;
+  left: 0 !important;
+}
+.ytp-chrome-top:hover,
+.ytp-chrome-bottom:hover {
+  opacity: 1;
+}

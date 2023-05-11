@@ -1,0 +1,36 @@
+.pluses{
+    // height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    .pluses-container{
+      
+        .up-wrapper {
+            display: flex;
+            flex-wrap: wrap;
+        }
+    }
+    .descr-pic{
+        width: 33%;
+        height: 250px;
+        img{
+            height: 250px;
+            width: 100%;
+        
+        }
+    }
+    .description{
+        width: 33%;
+        p{
+            width: 350px;
+            padding-top: 75px;
+            padding-left: 50px;
+        }
+    }
+    .yellow{
+        background-color: rgb(255, 236, 110);
+    }
+    .blue{
+        background-color: rgb(185, 185, 255);
+    }
+    
+}

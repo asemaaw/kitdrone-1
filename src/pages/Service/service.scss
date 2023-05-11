@@ -1,0 +1,21 @@
+.service{
+    height: 100vh;
+    background: url(../../../public/images/agrodrones.webp) center;
+    .title-service{
+        // padding: 350px 0 0 300px;
+     position: relative;
+      height: 100vh;
+        h2{
+        font-size: 34px;
+        position: absolute;
+        top: 55%;
+        left: 50%;
+        // width: 60%
+        font-size: 34px;
+       
+        color: rgb(0, 0, 0);
+        // font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    }
+}

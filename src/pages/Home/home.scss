@@ -1,0 +1,90 @@
+
+
+.home{
+    background: url(../../../public/images/sky.jpg) center/cover no-repeat;
+    height: calc(100vh - 49px);
+    display: flex;
+    
+    .drone {
+        background-color: rgb(69, 69, 255);
+        color: white;
+    }
+  
+    h3{
+        font-size: 140px;
+        color: rgb(0, 0, 0);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      
+
+    }
+    .project{
+        background-color: red;
+        color: white;
+        width: 90px;
+        text-align: center;
+        margin-left: 15px;
+        font-size: 16px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      
+    }
+    p{
+        margin-left: 15px;
+        font-size: 14px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 600;
+        color: rgb(0, 0, 0);
+    
+    }
+    // .container{
+    //     margin-top: 30px;
+    //     display: flex;
+    // }
+    // .drone{
+    //     width: 220px;
+    //     height: 200px;
+    // }
+    .right-wrapper{
+        // margin-top: 100px;
+        // margin-left: 20px;
+        margin: auto;
+    }
+    .left-wrapper{
+        margin: auto;
+        width: 100%;
+    }
+
+    .drone-img {
+        width: 300px;
+        margin-bottom: 58px;
+        height: 250px;
+        margin-right: 80px;
+        // opacity: 0.7;
+    }
+
+    .line{
+        background-color: rgb(50, 50, 50);
+        height: 3px;
+        width: 250px;
+        margin: 10px 10px 0 0;
+        margin-bottom: 5px;
+        margin-left: 15px;
+    }
+}
+
+
+
+// .wrapper{
+//     display: flex;
+ 
+//     align-items: center;
+// }
+// .first{
+//     width: 430px;
+//     height: 380px;
+//     margin-right: 25px;
+// }
+// .title{
+//     font-size: 50px;
+//     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+// }
